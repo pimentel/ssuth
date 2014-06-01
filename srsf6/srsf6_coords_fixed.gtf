@@ -1,0 +1,13 @@
+chr20	nonsense_mediated_decay	exon	104769	104981	.	+	.	gene_id "ENSG00000124193"; transcript_id "ENST00000483871";
+chr20	nonsense_mediated_decay	exon	105202	105350	.	+	.	gene_id "ENSG00000124193"; transcript_id "ENST00000483871";
+chr20	nonsense_mediated_decay	exon	105994	106261	.	+	.	gene_id "ENSG00000124193"; transcript_id "ENST00000483871";
+chr20	nonsense_mediated_decay	exon	106612	106736	.	+	.	gene_id "ENSG00000124193"; transcript_id "ENST00000483871";
+chr20	nonsense_mediated_decay	exon	106874	107082	.	+	.	gene_id "ENSG00000124193"; transcript_id "ENST00000483871";
+chr20	nonsense_mediated_decay	exon	107356	107439	.	+	.	gene_id "ENSG00000124193"; transcript_id "ENST00000483871";
+chr20	nonsense_mediated_decay	exon	107544	108175	.	+	.	gene_id "ENSG00000124193"; transcript_id "ENST00000483871";
+chr20	protein_coding	exon	104769	104981	.	+	.	gene_id "ENSG00000124193"; transcript_id "ENST00000244020";
+chr20	protein_coding	exon	105202	105350	.	+	.	gene_id "ENSG00000124193"; transcript_id "ENST00000244020";
+chr20	protein_coding	exon	106612	106736	.	+	.	gene_id "ENSG00000124193"; transcript_id "ENST00000244020";
+chr20	protein_coding	exon	106874	107082	.	+	.	gene_id "ENSG00000124193"; transcript_id "ENST00000244020";
+chr20	protein_coding	exon	107356	107439	.	+	.	gene_id "ENSG00000124193"; transcript_id "ENST00000244020";
+chr20	protein_coding	exon	107544	110446	.	+	.	gene_id "ENSG00000124193"; transcript_id "ENST00000244020";

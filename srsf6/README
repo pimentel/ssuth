@@ -1,0 +1,6 @@
+chr20_chunk.fa - a region around SRSF6 (hg19)
+fix_gtf_offset.py - reads srsf6_ensembl_exon.gtf and outputs srsf6_coords_fixed.gtf
+srsf6_coords_fixed.gtf - srsf6_ensembl_exon.gtf with the coordinates adjusted for offset from chr20_chunk
+srsf6_ensembl_exon.gtf - just the 'exon' entry from ensembl 72 annotation
+srsf6_sequence.fa - sequence of the region
+
